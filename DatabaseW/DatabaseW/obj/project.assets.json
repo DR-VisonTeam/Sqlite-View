@@ -1033,11 +1033,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\界面\\DatabaseW\\DatabaseW\\DatabaseW\\DatabaseW.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\Sqlite-View\\DatabaseW\\DatabaseW\\DatabaseW.csproj",
       "projectName": "DatabaseW",
-      "projectPath": "C:\\Users\\hp\\Desktop\\界面\\DatabaseW\\DatabaseW\\DatabaseW\\DatabaseW.csproj",
+      "projectPath": "C:\\Users\\hp\\Source\\Repos\\Sqlite-View\\DatabaseW\\DatabaseW\\DatabaseW.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Desktop\\界面\\DatabaseW\\DatabaseW\\DatabaseW\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Source\\Repos\\Sqlite-View\\DatabaseW\\DatabaseW\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\vs2019\\vs2019Sharped\\NuGetPackages"

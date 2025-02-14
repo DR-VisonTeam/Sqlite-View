@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sqliteDemo\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\ViewModel\\MainWindowViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sqliteDemo\\ViewModel\\MainWindowViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sqliteDemo\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sqliteDemo\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\View\\ChangeWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sqliteDemo\\View\\ChangeWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\Model\\WarnModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sqliteDemo\\Model\\WarnModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sqliteDemo\\App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\sqliteDemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sqliteDemo\\sqliteDemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\DatabaseManager\\DatabaseConnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sqliteDemo\\DatabaseManager\\DatabaseConnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\ViewModel\\ChangeWindowViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sqliteDemo\\ViewModel\\ChangeWindowViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\DatabaseManager\\DatabaseFunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sqliteDemo\\DatabaseManager\\DatabaseFunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\View\\ChangeWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sqliteDemo\\View\\ChangeWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "sqliteDemo\\ViewModel\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeToolTip": "sqliteDemo\\ViewModel\\MainWindowViewModel.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAiwHsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T03:16:11.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "sqliteDemo\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "sqliteDemo\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T08:07:28.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "sqliteDemo\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\MainWindow.xaml",
+              "RelativeToolTip": "sqliteDemo\\MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-31T08:07:30.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\App.xaml",
+              "RelativeDocumentMoniker": "sqliteDemo\\App.xaml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\App.xaml",
+              "RelativeToolTip": "sqliteDemo\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-03T06:48:06.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChangeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\View\\ChangeWindow.xaml",
+              "RelativeDocumentMoniker": "sqliteDemo\\View\\ChangeWindow.xaml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\View\\ChangeWindow.xaml",
+              "RelativeToolTip": "sqliteDemo\\View\\ChangeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-06T06:33:57.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WarnModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\Model\\WarnModel.cs",
+              "RelativeDocumentMoniker": "sqliteDemo\\Model\\WarnModel.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\Model\\WarnModel.cs",
+              "RelativeToolTip": "sqliteDemo\\Model\\WarnModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwDoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T03:07:06.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\App.xaml.cs",
+              "RelativeDocumentMoniker": "sqliteDemo\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\App.xaml.cs",
+              "RelativeToolTip": "sqliteDemo\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T06:48:05.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "sqliteDemo.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\sqliteDemo.csproj",
+              "RelativeDocumentMoniker": "sqliteDemo\\sqliteDemo.csproj",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\sqliteDemo.csproj",
+              "RelativeToolTip": "sqliteDemo\\sqliteDemo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-10T06:29:55.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DatabaseConnect.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\DatabaseManager\\DatabaseConnect.cs",
+              "RelativeDocumentMoniker": "sqliteDemo\\DatabaseManager\\DatabaseConnect.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\DatabaseManager\\DatabaseConnect.cs",
+              "RelativeToolTip": "sqliteDemo\\DatabaseManager\\DatabaseConnect.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAawG8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T03:19:02.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChangeWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\ViewModel\\ChangeWindowViewModel.cs",
+              "RelativeDocumentMoniker": "sqliteDemo\\ViewModel\\ChangeWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\ViewModel\\ChangeWindowViewModel.cs",
+              "RelativeToolTip": "sqliteDemo\\ViewModel\\ChangeWindowViewModel.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:05:15.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DatabaseFunction.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\DatabaseManager\\DatabaseFunction.cs",
+              "RelativeDocumentMoniker": "sqliteDemo\\DatabaseManager\\DatabaseFunction.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\DatabaseManager\\DatabaseFunction.cs",
+              "RelativeToolTip": "sqliteDemo\\DatabaseManager\\DatabaseFunction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T03:20:01.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChangeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\View\\ChangeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "sqliteDemo\\View\\ChangeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\116sqlite\\sqliteDemo\\sqliteDemo\\sqliteDemo\\View\\ChangeWindow.xaml.cs",
+              "RelativeToolTip": "sqliteDemo\\View\\ChangeWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:34:57.565Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

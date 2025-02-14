@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jkICCd6F6Js=",
+  "dgSpecHash": "EEFqh3nhlys=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Desktop\\界面\\DatabaseW\\DatabaseW\\DatabaseW\\DatabaseW.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Source\\Repos\\Sqlite-View\\DatabaseW\\DatabaseW\\DatabaseW.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\dryioc.dll\\4.7.7\\dryioc.dll.4.7.7.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\materialdesigncolors\\5.2.2-ci879\\materialdesigncolors.5.2.2-ci879.nupkg.sha512",
